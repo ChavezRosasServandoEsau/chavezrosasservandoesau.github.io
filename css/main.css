@@ -1,0 +1,20 @@
+izquierda{
+
+    float: left;
+   width: 25%;
+   
+    
+}
+
+.derecha{
+    float: right;
+   width: 75%;
+}
+
+.edgar{
+    text-align: center;
+}
+
+body{
+    background-color: #E45641;
+}
