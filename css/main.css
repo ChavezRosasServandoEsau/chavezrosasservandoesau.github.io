@@ -1,11 +1,50 @@
 izquierda{
-
     float: left;
    width: 25%; 
 }
 
+.cuentos{
+     font-size: 20px;
+     font-family: "Mystery Quest";
+     text-align: center;
+}
+
+header nav{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fotoalan{
+    margin-top: 2rem;
+    display:block;
+    width: 100px;
+    height: 150px ;
+}
+heeader{
+    width: 100%;
+}
+header nav a {
+    margin-top: 25px;
+    display: inline-block;
+    color: white;
+    background-color: dimgray;
+    text-decoration: none;
+    padding: 10px 10px;
+    line-height: normal;
+    font-size: 15px;
+    font-weight: bolder;
+    -webkit-transition: all 50ms ease;
+    -o-transition: all 50ms ease;
+    transition: all 50ms ease;
+}
+
 .derechaeses{
     background-image: url("../imagenes/escarabajo.jpg");
+}
+
+.bio{
+    float: none;
+    width: 100%;
 }
 
 .derecha{
@@ -31,5 +70,18 @@ body{
 
 .comentarios{
     text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+   margin-left: 15%;
+   margin-right: 15%;
+}
+
+.cuentooro{
+ text-align: center;
 }
 
